@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pkl
+.env
+data/raw/*.csv
+data/processed/*.csv
+.ipynb_checkpoints/
