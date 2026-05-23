@@ -157,3 +157,8 @@ python kafka/producer.py
 ```bash
 docker exec -it postgres psql -U etl_user -d happiness_db -c "SELECT COUNT(*) FROM fact_predictions;"
 ```
+
+<img width="963" height="537" alt="image" src="https://github.com/user-attachments/assets/3ed2c948-83b6-47af-b410-d1b73fcb127b" />
+<img width="956" height="545" alt="image" src="https://github.com/user-attachments/assets/12686415-d254-4e17-921c-5f33734bb0d7" />
+
+
